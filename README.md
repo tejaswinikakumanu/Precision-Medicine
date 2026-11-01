@@ -1,6 +1,6 @@
-# Precision-Medicine-Midterm
+# Precision-Medicine
 Oxford Nanopore RNA004 direct RNA sequencing analysis for Precision Medicine Midterm
-# Precision Medicine Midterm
+# Midterm
 
 ## Oxford Nanopore Direct RNA Sequencing Analysis — RNA004
 
